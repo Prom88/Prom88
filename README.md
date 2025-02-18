@@ -1,5 +1,5 @@
 
-<img class="image" src="https://i.pinimg.com/1200x/fb/f8/8f/fbf88f8e9c2f3fe52f93a3c81e051c60.jpg" height="250" style="border-radius: 10px" align="center">
+<img class="image" src="https://github.com/Prom88/Prom88/blob/main/c4c0a90ff00a244097b97bac53a45b8a-fotor-20250218222132(1).png?raw=true" width='1000px' style="border-radius: 10px" align="center">
 
 ## Hello! I am frontend dev
 #### My stack is:
