@@ -1,7 +1,7 @@
 
 <img class="image" src="https://i.pinimg.com/1200x/fb/f8/8f/fbf88f8e9c2f3fe52f93a3c81e051c60.jpg" height="250" style="border-radius: 10px" align="center">
 
-### Hello! I am frontend dev
+## Hello! I am frontend dev
 #### My stack is:
 
 - Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="16" alt="" />
