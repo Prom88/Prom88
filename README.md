@@ -1,5 +1,5 @@
 
-<img class="image" src="https://i.pinimg.com/1200x/10/41/13/1041137165ffcae9d691824846e5f886.jpg" height="250" style="border-radius: 10px" align="center">
+<img class="image" src="https://i.pinimg.com/1200x/fb/f8/8f/fbf88f8e9c2f3fe52f93a3c81e051c60.jpg" height="250" style="border-radius: 10px" align="center">
 
 ### Hello! I am frontend dev
 #### My stack is:
