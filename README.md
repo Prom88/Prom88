@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/10/41/13/1041137165ffcae9d691824846e5f886.jpg" height="200" style="border-radius:10px" align="center">
+<img src="https://i.pinimg.com/1200x/10/41/13/1041137165ffcae9d691824846e5f886.jpg" height="250" style="border-radius:10px" align="center">
 
 ### Hello! I am frontend dev
 #### My stack is:
