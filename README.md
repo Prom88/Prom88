@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/1200x/10/41/13/1041137165ffcae9d691824846e5f886.jpg" height="250" style="border-radius:10px" align="center">
+
+<img class="image" src="https://i.pinimg.com/1200x/10/41/13/1041137165ffcae9d691824846e5f886.jpg" height="250" style="border-radius: 10px" align="center">
 
 ### Hello! I am frontend dev
 #### My stack is:
@@ -11,5 +12,5 @@
 - Styled-components  <img src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" width="16"/>
 -  Vite<img src="https://vitejs.dev/logo.svg" width="16"/>
 
-##### <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height='16px'/>  t.me/rusgdev
+##### <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height='16px'/>  [t.me/rusgdev](https://t.me/rusgdev)
 
